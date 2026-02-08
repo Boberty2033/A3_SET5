@@ -1,6 +1,0 @@
-*.o
-*.exe
-stage2
-stage4
-hll_results.csv
-__pycache__/
